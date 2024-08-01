@@ -9,7 +9,7 @@ For rugby sevens, the volume of games means we needs data to track due to the vo
 
 ## Getting started
 
-In the `lineal_cup` directory, copy `.env.example` to `.env` and add your `SPORT_RADAR_API_KEY`
+In the `lineal_cup` directory, copy `.env.example` to `.env` and add your `SPORT_RADAR_API_KEY` (from <https://developer.sportradar.com>)
 
 Change to `load=True` in the block `if __name__ == "__main__"`
 
