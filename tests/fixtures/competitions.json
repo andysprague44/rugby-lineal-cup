@@ -1,0 +1,194 @@
+{
+    "generated_at": "2024-08-01T04:05:20+00:00",
+    "competitions": [
+        {
+            "id": "sr:competition:13963",
+            "name": "Olympic Tournament",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:13965",
+            "name": "Olympic Tournament, Women",
+            "gender": "women",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:14049",
+            "name": "Premiership Rugby 7s",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:14638",
+            "name": "SVNS",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:24213",
+            "name": "Commonwealth Games, Women",
+            "gender": "women",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:24215",
+            "name": "Commonwealth Games",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:25531",
+            "name": "World Cup Sevens",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:25533",
+            "name": "World Cup Sevens, Women",
+            "gender": "women",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:26102",
+            "name": "Asian Games, Women",
+            "gender": "women",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:26104",
+            "name": "Asian Games",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:27492",
+            "name": "SVNS, Women",
+            "gender": "women",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:29672",
+            "name": "Pan American Games",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:29674",
+            "name": "Pan American Games, Women",
+            "gender": "women",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:30418",
+            "name": "Oktoberfest 7s",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:31485",
+            "name": "SEA Games",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:31487",
+            "name": "SEA Games, Women",
+            "gender": "women",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:31731",
+            "name": "Supersevens",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:34510",
+            "name": "Olympic Tournament, Qualification",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:34512",
+            "name": "Olympic Tournament, Women, Qualification",
+            "gender": "women",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:40241",
+            "name": "European Games",
+            "gender": "men",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        },
+        {
+            "id": "sr:competition:40243",
+            "name": "European Games, Women",
+            "gender": "women",
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            }
+        }
+    ]
+}

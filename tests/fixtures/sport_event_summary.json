@@ -1,0 +1,149 @@
+{
+    "generated_at": "2024-08-01T04:11:07+00:00",
+    "sport_event": {
+        "id": "sr:sport_event:51556109",
+        "start_time": "2024-07-27T15:00:00+00:00",
+        "start_time_confirmed": true,
+        "sport_event_context": {
+            "sport": {
+                "id": "sr:sport:12",
+                "name": "Rugby"
+            },
+            "category": {
+                "id": "sr:category:1118",
+                "name": "Rugby Union Sevens"
+            },
+            "competition": {
+                "id": "sr:competition:13963",
+                "name": "Olympic Tournament",
+                "gender": "men"
+            },
+            "season": {
+                "id": "sr:season:105533",
+                "name": "Olympic Tournament 2024",
+                "start_date": "2024-07-24",
+                "end_date": "2024-07-27",
+                "year": "2024",
+                "competition_id": "sr:competition:13963"
+            },
+            "stage": {
+                "order": 2,
+                "type": "cup",
+                "phase": "placement_matches",
+                "start_date": "2024-07-25",
+                "end_date": "2024-07-27",
+                "year": "2024"
+            },
+            "round": {
+                "name": "9th_place_final",
+                "cup_round_sport_event_number": 1,
+                "cup_round_number_of_sport_events": 1,
+                "cup_round_id": "sr:cup_round:2168999"
+            },
+            "groups": [
+                {
+                    "id": "sr:cup:167553",
+                    "name": "Olympic Tournament 2024, Placement 9-12"
+                }
+            ]
+        },
+        "coverage": {
+            "live": true
+        },
+        "competitors": [
+            {
+                "id": "sr:competitor:165818",
+                "name": "Samoa",
+                "country": "Samoa",
+                "country_code": "WSM",
+                "abbreviation": "SAM",
+                "qualifier": "home",
+                "gender": "male"
+            },
+            {
+                "id": "sr:competitor:165808",
+                "name": "Kenya",
+                "country": "Kenya",
+                "country_code": "KEN",
+                "abbreviation": "KEN",
+                "qualifier": "away",
+                "gender": "male"
+            }
+        ],
+        "venue": {
+            "id": "sr:venue:1030",
+            "name": "Stade de France",
+            "capacity": 80000,
+            "city_name": "Saint-Denis",
+            "country_name": "France",
+            "map_coordinates": "48.924444,2.360000",
+            "country_code": "FRA",
+            "timezone": "Europe/Paris"
+        },
+        "sport_event_conditions": {
+            "weather": {
+                "pitch_conditions": "good",
+                "overall_conditions": "good"
+            }
+        }
+    },
+    "sport_event_status": {
+        "status": "closed",
+        "match_status": "ended",
+        "home_score": 5,
+        "away_score": 10,
+        "winner_id": "sr:competitor:165808",
+        "period_scores": [
+            {
+                "home_score": 0,
+                "away_score": 5,
+                "type": "regular_period",
+                "number": 1
+            },
+            {
+                "home_score": 5,
+                "away_score": 5,
+                "type": "regular_period",
+                "number": 2
+            }
+        ]
+    },
+    "statistics": {
+        "totals": {
+            "competitors": [
+                {
+                    "id": "sr:competitor:165818",
+                    "name": "Samoa",
+                    "abbreviation": "SAM",
+                    "qualifier": "home",
+                    "statistics": {
+                        "ball_possession": 62,
+                        "conversions": 0,
+                        "drop_goals": 0,
+                        "penalties_conceded": 2,
+                        "penalty_goals": 0,
+                        "red_cards": 0,
+                        "tries": 1,
+                        "yellow_cards": 0
+                    }
+                },
+                {
+                    "id": "sr:competitor:165808",
+                    "name": "Kenya",
+                    "abbreviation": "KEN",
+                    "qualifier": "away",
+                    "statistics": {
+                        "ball_possession": 38,
+                        "conversions": 0,
+                        "drop_goals": 0,
+                        "penalties_conceded": 0,
+                        "penalty_goals": 0,
+                        "red_cards": 0,
+                        "tries": 2,
+                        "yellow_cards": 0
+                    }
+                }
+            ]
+        }
+    }
+}

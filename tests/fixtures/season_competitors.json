@@ -1,0 +1,35 @@
+{
+    "generated_at": "2024-08-01T04:36:10+00:00",
+    "season_competitors": [
+        {
+            "id": "sr:competitor:671465",
+            "name": "Monaco Rugby",
+            "short_name": "Monaco Rugby",
+            "abbreviation": "MON"
+        },
+        {
+            "id": "sr:competitor:671467",
+            "name": "Montpellier Herault Rugby",
+            "short_name": "Montpellier Herault Rugby",
+            "abbreviation": "MON"
+        },
+        {
+            "id": "sr:competitor:671469",
+            "name": "Stade Francais Paris",
+            "short_name": "Stade Francais Paris",
+            "abbreviation": "STA"
+        },
+        {
+            "id": "sr:competitor:671471",
+            "name": "Stade Toulousain",
+            "short_name": "Stade Toulousain",
+            "abbreviation": "STA"
+        },
+        {
+            "id": "sr:competitor:671475",
+            "name": "Section Paloise",
+            "short_name": "Section Paloise",
+            "abbreviation": "SEC"
+        }
+    ]
+}

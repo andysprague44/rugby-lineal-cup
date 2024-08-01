@@ -1,0 +1,29 @@
+{
+    "generated_at": "2024-08-01T04:06:52+00:00",
+    "seasons": [
+        {
+            "id": "sr:season:33331",
+            "name": "Olympic Games 2016",
+            "start_date": "2016-08-08",
+            "end_date": "2016-08-15",
+            "year": "2016",
+            "competition_id": "sr:competition:13963"
+        },
+        {
+            "id": "sr:season:83862",
+            "name": "Olympic Tournament 2020",
+            "start_date": "2021-07-26",
+            "end_date": "2021-07-28",
+            "year": "2021",
+            "competition_id": "sr:competition:13963"
+        },
+        {
+            "id": "sr:season:105533",
+            "name": "Olympic Tournament 2024",
+            "start_date": "2024-07-24",
+            "end_date": "2024-07-27",
+            "year": "2024",
+            "competition_id": "sr:competition:13963"
+        }
+    ]
+}

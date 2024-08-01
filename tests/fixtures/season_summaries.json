@@ -1,0 +1,735 @@
+{
+    "generated_at": "2024-08-01T04:08:08+00:00",
+    "summaries": [
+        {
+            "sport_event": {
+                "id": "sr:sport_event:51273107",
+                "start_time": "2024-07-24T16:00:00+00:00",
+                "start_time_confirmed": true,
+                "sport_event_context": {
+                    "sport": {
+                        "id": "sr:sport:12",
+                        "name": "Rugby"
+                    },
+                    "category": {
+                        "id": "sr:category:1118",
+                        "name": "Rugby Union Sevens"
+                    },
+                    "competition": {
+                        "id": "sr:competition:13963",
+                        "name": "Olympic Tournament",
+                        "gender": "men"
+                    },
+                    "season": {
+                        "id": "sr:season:105533",
+                        "name": "Olympic Tournament 2024",
+                        "start_date": "2024-07-24",
+                        "end_date": "2024-07-27",
+                        "year": "2024",
+                        "competition_id": "sr:competition:13963"
+                    },
+                    "stage": {
+                        "order": 1,
+                        "type": "league",
+                        "phase": "regular season",
+                        "start_date": "2024-07-24",
+                        "end_date": "2024-07-25",
+                        "year": "2024"
+                    },
+                    "round": {
+                        "number": 1
+                    },
+                    "groups": [
+                        {
+                            "id": "sr:league:84717",
+                            "name": "Olympic Tournament 2024, Group A",
+                            "group_name": "A"
+                        }
+                    ]
+                },
+                "coverage": {
+                    "live": true
+                },
+                "competitors": [
+                    {
+                        "id": "sr:competitor:165802",
+                        "name": "New Zealand",
+                        "country": "New Zealand",
+                        "country_code": "NZL",
+                        "abbreviation": "NEW",
+                        "qualifier": "home",
+                        "gender": "male"
+                    },
+                    {
+                        "id": "sr:competitor:182731",
+                        "name": "Japan",
+                        "country": "Japan",
+                        "country_code": "JPN",
+                        "abbreviation": "JAP",
+                        "qualifier": "away",
+                        "gender": "male"
+                    }
+                ],
+                "venue": {
+                    "id": "sr:venue:1030",
+                    "name": "Stade de France",
+                    "capacity": 80000,
+                    "city_name": "Saint-Denis",
+                    "country_name": "France",
+                    "map_coordinates": "48.924444,2.360000",
+                    "country_code": "FRA",
+                    "timezone": "Europe/Paris"
+                },
+                "sport_event_conditions": {
+                    "weather": {
+                        "pitch_conditions": "good",
+                        "overall_conditions": "good"
+                    }
+                }
+            },
+            "sport_event_status": {
+                "status": "closed",
+                "match_status": "ended",
+                "home_score": 40,
+                "away_score": 12,
+                "winner_id": "sr:competitor:165802",
+                "period_scores": [
+                    {
+                        "home_score": 26,
+                        "away_score": 7,
+                        "type": "regular_period",
+                        "number": 1
+                    },
+                    {
+                        "home_score": 14,
+                        "away_score": 5,
+                        "type": "regular_period",
+                        "number": 2
+                    }
+                ]
+            },
+            "statistics": {
+                "totals": {
+                    "competitors": [
+                        {
+                            "id": "sr:competitor:165802",
+                            "name": "New Zealand",
+                            "abbreviation": "NEW",
+                            "qualifier": "home",
+                            "statistics": {
+                                "ball_possession": 47,
+                                "conversions": 5,
+                                "drop_goals": 0,
+                                "penalties_conceded": 3,
+                                "penalty_goals": 0,
+                                "red_cards": 0,
+                                "tries": 6,
+                                "yellow_cards": 0
+                            }
+                        },
+                        {
+                            "id": "sr:competitor:182731",
+                            "name": "Japan",
+                            "abbreviation": "JAP",
+                            "qualifier": "away",
+                            "statistics": {
+                                "ball_possession": 53,
+                                "conversions": 1,
+                                "drop_goals": 0,
+                                "penalties_conceded": 5,
+                                "penalty_goals": 0,
+                                "red_cards": 0,
+                                "tries": 2,
+                                "yellow_cards": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "sport_event": {
+                "id": "sr:sport_event:51273129",
+                "start_time": "2024-07-24T17:00:00+00:00",
+                "start_time_confirmed": true,
+                "sport_event_context": {
+                    "sport": {
+                        "id": "sr:sport:12",
+                        "name": "Rugby"
+                    },
+                    "category": {
+                        "id": "sr:category:1118",
+                        "name": "Rugby Union Sevens"
+                    },
+                    "competition": {
+                        "id": "sr:competition:13963",
+                        "name": "Olympic Tournament",
+                        "gender": "men"
+                    },
+                    "season": {
+                        "id": "sr:season:105533",
+                        "name": "Olympic Tournament 2024",
+                        "start_date": "2024-07-24",
+                        "end_date": "2024-07-27",
+                        "year": "2024",
+                        "competition_id": "sr:competition:13963"
+                    },
+                    "stage": {
+                        "order": 1,
+                        "type": "league",
+                        "phase": "regular season",
+                        "start_date": "2024-07-24",
+                        "end_date": "2024-07-25",
+                        "year": "2024"
+                    },
+                    "round": {
+                        "number": 2
+                    },
+                    "groups": [
+                        {
+                            "id": "sr:league:84719",
+                            "name": "Olympic Tournament 2024, Group B",
+                            "group_name": "B"
+                        }
+                    ]
+                },
+                "coverage": {
+                    "live": true
+                },
+                "competitors": [
+                    {
+                        "id": "sr:competitor:165822",
+                        "name": "Australia",
+                        "country": "Australia",
+                        "country_code": "AUS",
+                        "abbreviation": "AUS",
+                        "qualifier": "home",
+                        "gender": "male"
+                    },
+                    {
+                        "id": "sr:competitor:165808",
+                        "name": "Kenya",
+                        "country": "Kenya",
+                        "country_code": "KEN",
+                        "abbreviation": "KEN",
+                        "qualifier": "away",
+                        "gender": "male"
+                    }
+                ],
+                "venue": {
+                    "id": "sr:venue:1030",
+                    "name": "Stade de France",
+                    "capacity": 80000,
+                    "city_name": "Saint-Denis",
+                    "country_name": "France",
+                    "map_coordinates": "48.924444,2.360000",
+                    "country_code": "FRA",
+                    "timezone": "Europe/Paris"
+                },
+                "sport_event_conditions": {
+                    "weather": {
+                        "pitch_conditions": "good",
+                        "overall_conditions": "good"
+                    }
+                }
+            },
+            "sport_event_status": {
+                "status": "closed",
+                "match_status": "ended",
+                "home_score": 21,
+                "away_score": 7,
+                "winner_id": "sr:competitor:165822",
+                "period_scores": [
+                    {
+                        "home_score": 14,
+                        "away_score": 7,
+                        "type": "regular_period",
+                        "number": 1
+                    },
+                    {
+                        "home_score": 7,
+                        "away_score": 0,
+                        "type": "regular_period",
+                        "number": 2
+                    }
+                ]
+            },
+            "statistics": {
+                "totals": {
+                    "competitors": [
+                        {
+                            "id": "sr:competitor:165822",
+                            "name": "Australia",
+                            "abbreviation": "AUS",
+                            "qualifier": "home",
+                            "statistics": {
+                                "ball_possession": 58,
+                                "conversions": 3,
+                                "drop_goals": 0,
+                                "penalties_conceded": 6,
+                                "penalty_goals": 0,
+                                "red_cards": 0,
+                                "tries": 3,
+                                "yellow_cards": 0
+                            }
+                        },
+                        {
+                            "id": "sr:competitor:165808",
+                            "name": "Kenya",
+                            "abbreviation": "KEN",
+                            "qualifier": "away",
+                            "statistics": {
+                                "ball_possession": 42,
+                                "conversions": 1,
+                                "drop_goals": 0,
+                                "penalties_conceded": 3,
+                                "penalty_goals": 0,
+                                "red_cards": 0,
+                                "tries": 1,
+                                "yellow_cards": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "sport_event": {
+                "id": "sr:sport_event:51273131",
+                "start_time": "2024-07-24T17:30:00+00:00",
+                "start_time_confirmed": true,
+                "sport_event_context": {
+                    "sport": {
+                        "id": "sr:sport:12",
+                        "name": "Rugby"
+                    },
+                    "category": {
+                        "id": "sr:category:1118",
+                        "name": "Rugby Union Sevens"
+                    },
+                    "competition": {
+                        "id": "sr:competition:13963",
+                        "name": "Olympic Tournament",
+                        "gender": "men"
+                    },
+                    "season": {
+                        "id": "sr:season:105533",
+                        "name": "Olympic Tournament 2024",
+                        "start_date": "2024-07-24",
+                        "end_date": "2024-07-27",
+                        "year": "2024",
+                        "competition_id": "sr:competition:13963"
+                    },
+                    "stage": {
+                        "order": 1,
+                        "type": "league",
+                        "phase": "regular season",
+                        "start_date": "2024-07-24",
+                        "end_date": "2024-07-25",
+                        "year": "2024"
+                    },
+                    "round": {
+                        "number": 2
+                    },
+                    "groups": [
+                        {
+                            "id": "sr:league:84719",
+                            "name": "Olympic Tournament 2024, Group B",
+                            "group_name": "B"
+                        }
+                    ]
+                },
+                "coverage": {
+                    "live": true
+                },
+                "competitors": [
+                    {
+                        "id": "sr:competitor:182725",
+                        "name": "Argentina",
+                        "country": "Argentina",
+                        "country_code": "ARG",
+                        "abbreviation": "ARG",
+                        "qualifier": "home",
+                        "gender": "male"
+                    },
+                    {
+                        "id": "sr:competitor:165818",
+                        "name": "Samoa",
+                        "country": "Samoa",
+                        "country_code": "WSM",
+                        "abbreviation": "SAM",
+                        "qualifier": "away",
+                        "gender": "male"
+                    }
+                ],
+                "venue": {
+                    "id": "sr:venue:1030",
+                    "name": "Stade de France",
+                    "capacity": 80000,
+                    "city_name": "Saint-Denis",
+                    "country_name": "France",
+                    "map_coordinates": "48.924444,2.360000",
+                    "country_code": "FRA",
+                    "timezone": "Europe/Paris"
+                },
+                "sport_event_conditions": {
+                    "weather": {
+                        "pitch_conditions": "medium",
+                        "overall_conditions": "medium"
+                    }
+                }
+            },
+            "sport_event_status": {
+                "status": "closed",
+                "match_status": "ended",
+                "home_score": 28,
+                "away_score": 12,
+                "winner_id": "sr:competitor:182725",
+                "period_scores": [
+                    {
+                        "home_score": 21,
+                        "away_score": 0,
+                        "type": "regular_period",
+                        "number": 1
+                    },
+                    {
+                        "home_score": 7,
+                        "away_score": 12,
+                        "type": "regular_period",
+                        "number": 2
+                    }
+                ]
+            },
+            "statistics": {
+                "totals": {
+                    "competitors": [
+                        {
+                            "id": "sr:competitor:182725",
+                            "name": "Argentina",
+                            "abbreviation": "ARG",
+                            "qualifier": "home",
+                            "statistics": {
+                                "ball_possession": 64,
+                                "conversions": 4,
+                                "drop_goals": 0,
+                                "penalties_conceded": 0,
+                                "penalty_goals": 0,
+                                "red_cards": 0,
+                                "tries": 4,
+                                "yellow_cards": 0
+                            }
+                        },
+                        {
+                            "id": "sr:competitor:165818",
+                            "name": "Samoa",
+                            "abbreviation": "SAM",
+                            "qualifier": "away",
+                            "statistics": {
+                                "ball_possession": 36,
+                                "conversions": 1,
+                                "drop_goals": 0,
+                                "penalties_conceded": 4,
+                                "penalty_goals": 0,
+                                "red_cards": 0,
+                                "tries": 2,
+                                "yellow_cards": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "sport_event": {
+                "id": "sr:sport_event:51273295",
+                "start_time": "2024-07-24T18:00:00+00:00",
+                "start_time_confirmed": true,
+                "sport_event_context": {
+                    "sport": {
+                        "id": "sr:sport:12",
+                        "name": "Rugby"
+                    },
+                    "category": {
+                        "id": "sr:category:1118",
+                        "name": "Rugby Union Sevens"
+                    },
+                    "competition": {
+                        "id": "sr:competition:13963",
+                        "name": "Olympic Tournament",
+                        "gender": "men"
+                    },
+                    "season": {
+                        "id": "sr:season:105533",
+                        "name": "Olympic Tournament 2024",
+                        "start_date": "2024-07-24",
+                        "end_date": "2024-07-27",
+                        "year": "2024",
+                        "competition_id": "sr:competition:13963"
+                    },
+                    "stage": {
+                        "order": 1,
+                        "type": "league",
+                        "phase": "regular season",
+                        "start_date": "2024-07-24",
+                        "end_date": "2024-07-25",
+                        "year": "2024"
+                    },
+                    "round": {
+                        "number": 2
+                    },
+                    "groups": [
+                        {
+                            "id": "sr:league:84721",
+                            "name": "Olympic Tournament 2024, Group C",
+                            "group_name": "C"
+                        }
+                    ]
+                },
+                "coverage": {
+                    "live": true
+                },
+                "competitors": [
+                    {
+                        "id": "sr:competitor:182729",
+                        "name": "France",
+                        "country": "France",
+                        "country_code": "FRA",
+                        "abbreviation": "FRA",
+                        "qualifier": "home",
+                        "gender": "male"
+                    },
+                    {
+                        "id": "sr:competitor:265647",
+                        "name": "Uruguay",
+                        "country": "Uruguay",
+                        "country_code": "URY",
+                        "abbreviation": "URU",
+                        "qualifier": "away",
+                        "gender": "male"
+                    }
+                ],
+                "venue": {
+                    "id": "sr:venue:1030",
+                    "name": "Stade de France",
+                    "capacity": 80000,
+                    "city_name": "Saint-Denis",
+                    "country_name": "France",
+                    "map_coordinates": "48.924444,2.360000",
+                    "country_code": "FRA",
+                    "timezone": "Europe/Paris"
+                },
+                "sport_event_conditions": {
+                    "weather": {
+                        "pitch_conditions": "good",
+                        "overall_conditions": "good"
+                    }
+                }
+            },
+            "sport_event_status": {
+                "status": "closed",
+                "match_status": "ended",
+                "home_score": 19,
+                "away_score": 12,
+                "winner_id": "sr:competitor:182729",
+                "period_scores": [
+                    {
+                        "home_score": 5,
+                        "away_score": 7,
+                        "type": "regular_period",
+                        "number": 1
+                    },
+                    {
+                        "home_score": 14,
+                        "away_score": 5,
+                        "type": "regular_period",
+                        "number": 2
+                    }
+                ]
+            },
+            "statistics": {
+                "totals": {
+                    "competitors": [
+                        {
+                            "id": "sr:competitor:182729",
+                            "name": "France",
+                            "abbreviation": "FRA",
+                            "qualifier": "home",
+                            "statistics": {
+                                "ball_possession": 61,
+                                "conversions": 2,
+                                "drop_goals": 0,
+                                "penalties_conceded": 2,
+                                "penalty_goals": 0,
+                                "red_cards": 0,
+                                "tries": 3,
+                                "yellow_cards": 1
+                            }
+                        },
+                        {
+                            "id": "sr:competitor:265647",
+                            "name": "Uruguay",
+                            "abbreviation": "URU",
+                            "qualifier": "away",
+                            "statistics": {
+                                "ball_possession": 39,
+                                "conversions": 1,
+                                "drop_goals": 0,
+                                "penalties_conceded": 2,
+                                "penalty_goals": 0,
+                                "red_cards": 0,
+                                "tries": 2,
+                                "yellow_cards": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "sport_event": {
+                "id": "sr:sport_event:51273405",
+                "start_time": "2024-07-24T18:30:00+00:00",
+                "start_time_confirmed": true,
+                "sport_event_context": {
+                    "sport": {
+                        "id": "sr:sport:12",
+                        "name": "Rugby"
+                    },
+                    "category": {
+                        "id": "sr:category:1118",
+                        "name": "Rugby Union Sevens"
+                    },
+                    "competition": {
+                        "id": "sr:competition:13963",
+                        "name": "Olympic Tournament",
+                        "gender": "men"
+                    },
+                    "season": {
+                        "id": "sr:season:105533",
+                        "name": "Olympic Tournament 2024",
+                        "start_date": "2024-07-24",
+                        "end_date": "2024-07-27",
+                        "year": "2024",
+                        "competition_id": "sr:competition:13963"
+                    },
+                    "stage": {
+                        "order": 1,
+                        "type": "league",
+                        "phase": "regular season",
+                        "start_date": "2024-07-24",
+                        "end_date": "2024-07-25",
+                        "year": "2024"
+                    },
+                    "round": {
+                        "number": 2
+                    },
+                    "groups": [
+                        {
+                            "id": "sr:league:84721",
+                            "name": "Olympic Tournament 2024, Group C",
+                            "group_name": "C"
+                        }
+                    ]
+                },
+                "coverage": {
+                    "live": true
+                },
+                "competitors": [
+                    {
+                        "id": "sr:competitor:182735",
+                        "name": "Fiji",
+                        "country": "Fiji",
+                        "country_code": "FJI",
+                        "abbreviation": "FID",
+                        "qualifier": "home",
+                        "gender": "male"
+                    },
+                    {
+                        "id": "sr:competitor:182727",
+                        "name": "USA",
+                        "country": "USA",
+                        "country_code": "USA",
+                        "abbreviation": "USA",
+                        "qualifier": "away",
+                        "gender": "male"
+                    }
+                ],
+                "venue": {
+                    "id": "sr:venue:1030",
+                    "name": "Stade de France",
+                    "capacity": 80000,
+                    "city_name": "Saint-Denis",
+                    "country_name": "France",
+                    "map_coordinates": "48.924444,2.360000",
+                    "country_code": "FRA",
+                    "timezone": "Europe/Paris"
+                },
+                "sport_event_conditions": {
+                    "weather": {
+                        "pitch_conditions": "good",
+                        "overall_conditions": "good"
+                    }
+                }
+            },
+            "sport_event_status": {
+                "status": "closed",
+                "match_status": "ended",
+                "home_score": 38,
+                "away_score": 12,
+                "winner_id": "sr:competitor:182735",
+                "period_scores": [
+                    {
+                        "home_score": 33,
+                        "away_score": 5,
+                        "type": "regular_period",
+                        "number": 1
+                    },
+                    {
+                        "home_score": 5,
+                        "away_score": 7,
+                        "type": "regular_period",
+                        "number": 2
+                    }
+                ]
+            },
+            "statistics": {
+                "totals": {
+                    "competitors": [
+                        {
+                            "id": "sr:competitor:182735",
+                            "name": "Fiji",
+                            "abbreviation": "FID",
+                            "qualifier": "home",
+                            "statistics": {
+                                "ball_possession": 67,
+                                "conversions": 4,
+                                "drop_goals": 0,
+                                "penalties_conceded": 4,
+                                "penalty_goals": 0,
+                                "red_cards": 0,
+                                "tries": 6,
+                                "yellow_cards": 0
+                            }
+                        },
+                        {
+                            "id": "sr:competitor:182727",
+                            "name": "USA",
+                            "abbreviation": "USA",
+                            "qualifier": "away",
+                            "statistics": {
+                                "ball_possession": 33,
+                                "conversions": 1,
+                                "drop_goals": 0,
+                                "penalties_conceded": 5,
+                                "penalty_goals": 0,
+                                "red_cards": 0,
+                                "tries": 2,
+                                "yellow_cards": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

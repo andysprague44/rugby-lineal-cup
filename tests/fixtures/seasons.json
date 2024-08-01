@@ -1,0 +1,429 @@
+{
+    "generated_at": "2024-08-01T04:07:57+00:00",
+    "seasons": [
+        {
+            "id": "sr:season:33331",
+            "name": "Olympic Games 2016",
+            "start_date": "2016-08-08",
+            "end_date": "2016-08-15",
+            "year": "2016",
+            "competition_id": "sr:competition:13963"
+        },
+        {
+            "id": "sr:season:83862",
+            "name": "Olympic Tournament 2020",
+            "start_date": "2021-07-26",
+            "end_date": "2021-07-28",
+            "year": "2021",
+            "competition_id": "sr:competition:13963"
+        },
+        {
+            "id": "sr:season:105533",
+            "name": "Olympic Tournament 2024",
+            "start_date": "2024-07-24",
+            "end_date": "2024-07-27",
+            "year": "2024",
+            "competition_id": "sr:competition:13963"
+        },
+        {
+            "id": "sr:season:33335",
+            "name": "Olympic Tournament, Women 2016",
+            "start_date": "2016-08-06",
+            "end_date": "2016-08-09",
+            "year": "2016",
+            "competition_id": "sr:competition:13965"
+        },
+        {
+            "id": "sr:season:83864",
+            "name": "Olympic Tournament, Women 2020",
+            "start_date": "2021-07-29",
+            "end_date": "2021-07-31",
+            "year": "2021",
+            "competition_id": "sr:competition:13965"
+        },
+        {
+            "id": "sr:season:105535",
+            "name": "Olympic Tournament, Women 2024",
+            "start_date": "2024-07-28",
+            "end_date": "2024-07-30",
+            "year": "2024",
+            "competition_id": "sr:competition:13965"
+        },
+        {
+            "id": "sr:season:33733",
+            "name": "Premiership Rugby 7s 2016",
+            "start_date": "2016-07-21",
+            "end_date": "2016-08-30",
+            "year": "2016",
+            "competition_id": "sr:competition:14049"
+        },
+        {
+            "id": "sr:season:42746",
+            "name": "Premiership Rugby 7s 2017",
+            "start_date": "2017-07-28",
+            "end_date": "2017-07-30",
+            "year": "2017",
+            "competition_id": "sr:competition:14049"
+        },
+        {
+            "id": "sr:season:56053",
+            "name": "Premiership Rugby 7s 2018",
+            "start_date": "2018-07-27",
+            "end_date": "2018-07-29",
+            "year": "2018",
+            "competition_id": "sr:competition:14049"
+        },
+        {
+            "id": "sr:season:71220",
+            "name": "Premiership Rugby 7s 2019",
+            "start_date": "2019-09-13",
+            "end_date": "2019-09-16",
+            "year": "2019",
+            "competition_id": "sr:competition:14049"
+        },
+        {
+            "id": "sr:season:36334",
+            "name": "World Rugby Sevens World Series 16/17",
+            "start_date": "2016-12-01",
+            "end_date": "2017-05-28",
+            "year": "2017",
+            "competition_id": "sr:competition:14638"
+        },
+        {
+            "id": "sr:season:47882",
+            "name": "World Rugby Sevens World Series 17/18",
+            "start_date": "2017-12-01",
+            "end_date": "2018-06-11",
+            "year": "17/18",
+            "competition_id": "sr:competition:14638"
+        },
+        {
+            "id": "sr:season:60818",
+            "name": "World Rugby Sevens World Series 18/19",
+            "start_date": "2018-11-30",
+            "end_date": "2019-06-03",
+            "year": "18/19",
+            "competition_id": "sr:competition:14638"
+        },
+        {
+            "id": "sr:season:72622",
+            "name": "World Rugby Sevens World Series 19/20",
+            "start_date": "2019-12-05",
+            "end_date": "2020-06-03",
+            "year": "19/20",
+            "competition_id": "sr:competition:14638"
+        },
+        {
+            "id": "sr:season:87218",
+            "name": "World Rugby Sevens World Series 2021",
+            "start_date": "2021-09-18",
+            "end_date": "2021-09-27",
+            "year": "2021",
+            "competition_id": "sr:competition:14638"
+        },
+        {
+            "id": "sr:season:88893",
+            "name": "World Rugby Sevens World Series 2022",
+            "start_date": "2021-11-26",
+            "end_date": "2022-08-29",
+            "year": "2022",
+            "competition_id": "sr:competition:14638"
+        },
+        {
+            "id": "sr:season:99247",
+            "name": "World Rugby Sevens World Series 22/23",
+            "start_date": "2022-11-04",
+            "end_date": "2023-05-21",
+            "year": "22/23",
+            "competition_id": "sr:competition:14638"
+        },
+        {
+            "id": "sr:season:113294",
+            "name": "SVNS 23/24",
+            "start_date": "2023-12-02",
+            "end_date": "2024-06-02",
+            "year": "23/24",
+            "competition_id": "sr:competition:14638"
+        },
+        {
+            "id": "sr:season:51949",
+            "name": "Commonwealth Games, Women 2018",
+            "start_date": "2018-04-13",
+            "end_date": "2018-04-16",
+            "year": "2018",
+            "competition_id": "sr:competition:24213"
+        },
+        {
+            "id": "sr:season:96051",
+            "name": "Commonwealth Games, Women 2022",
+            "start_date": "2022-07-29",
+            "end_date": "2022-07-31",
+            "year": "2022",
+            "competition_id": "sr:competition:24213"
+        },
+        {
+            "id": "sr:season:51951",
+            "name": "Commonwealth Games 2018",
+            "start_date": "2018-04-14",
+            "end_date": "2018-04-16",
+            "year": "2018",
+            "competition_id": "sr:competition:24215"
+        },
+        {
+            "id": "sr:season:96049",
+            "name": "Commonwealth Games 2022",
+            "start_date": "2022-07-29",
+            "end_date": "2022-07-31",
+            "year": "2022",
+            "competition_id": "sr:competition:24215"
+        },
+        {
+            "id": "sr:season:55281",
+            "name": "World Cup Sevens 2018",
+            "start_date": "2018-07-20",
+            "end_date": "2018-07-24",
+            "year": "2018",
+            "competition_id": "sr:competition:25531"
+        },
+        {
+            "id": "sr:season:97667",
+            "name": "World Cup Sevens 2022",
+            "start_date": "2022-09-09",
+            "end_date": "2022-09-11",
+            "year": "2022",
+            "competition_id": "sr:competition:25531"
+        },
+        {
+            "id": "sr:season:55283",
+            "name": "World Cup Sevens, Women, 2018",
+            "start_date": "2018-07-20",
+            "end_date": "2018-07-23",
+            "year": "2018",
+            "competition_id": "sr:competition:25533"
+        },
+        {
+            "id": "sr:season:97673",
+            "name": "World Cup Sevens, Women 2022",
+            "start_date": "2022-09-09",
+            "end_date": "2022-09-11",
+            "year": "2022",
+            "competition_id": "sr:competition:25533"
+        },
+        {
+            "id": "sr:season:56656",
+            "name": "Asian Games 2018, Women",
+            "start_date": "2018-08-30",
+            "end_date": "2018-09-02",
+            "year": "2018",
+            "competition_id": "sr:competition:26102"
+        },
+        {
+            "id": "sr:season:110837",
+            "name": "Asian Games, Women 2022",
+            "start_date": "2023-09-24",
+            "end_date": "2023-09-26",
+            "year": "2023",
+            "competition_id": "sr:competition:26102"
+        },
+        {
+            "id": "sr:season:56654",
+            "name": "Asian Games 2018",
+            "start_date": "2018-08-30",
+            "end_date": "2018-09-02",
+            "year": "2018",
+            "competition_id": "sr:competition:26104"
+        },
+        {
+            "id": "sr:season:110835",
+            "name": "Asian Games 2022",
+            "start_date": "2023-09-24",
+            "end_date": "2023-09-26",
+            "year": "2023",
+            "competition_id": "sr:competition:26104"
+        },
+        {
+            "id": "sr:season:60820",
+            "name": "World Rugby Sevens World Series, Women 18/19",
+            "start_date": "2018-10-20",
+            "end_date": "2019-06-17",
+            "year": "18/19",
+            "competition_id": "sr:competition:27492"
+        },
+        {
+            "id": "sr:season:71936",
+            "name": "World Rugby Sevens World Series, Women 19/20",
+            "start_date": "2019-10-05",
+            "end_date": "2020-06-03",
+            "year": "19/20",
+            "competition_id": "sr:competition:27492"
+        },
+        {
+            "id": "sr:season:88895",
+            "name": "World Rugby Sevens World Series, Women 2022",
+            "start_date": "2021-11-26",
+            "end_date": "2022-05-23",
+            "year": "2022",
+            "competition_id": "sr:competition:27492"
+        },
+        {
+            "id": "sr:season:100229",
+            "name": "World Rugby Sevens World Series, Women 22/23",
+            "start_date": "2022-12-02",
+            "end_date": "2023-05-14",
+            "year": "22/23",
+            "competition_id": "sr:competition:27492"
+        },
+        {
+            "id": "sr:season:113296",
+            "name": "SVNS, Women 23/24",
+            "start_date": "2023-12-02",
+            "end_date": "2024-06-02",
+            "year": "23/24",
+            "competition_id": "sr:competition:27492"
+        },
+        {
+            "id": "sr:season:69576",
+            "name": "Pan American Games, 2019",
+            "start_date": "2019-07-26",
+            "end_date": "2019-07-29",
+            "year": "2019",
+            "competition_id": "sr:competition:29672"
+        },
+        {
+            "id": "sr:season:112152",
+            "name": "Pan American Games 2023",
+            "start_date": "2023-11-03",
+            "end_date": "2023-11-05",
+            "year": "2023",
+            "competition_id": "sr:competition:29672"
+        },
+        {
+            "id": "sr:season:69578",
+            "name": "Pan American Games, Women, 2019",
+            "start_date": "2019-07-25",
+            "end_date": "2019-07-30",
+            "year": "2019",
+            "competition_id": "sr:competition:29674"
+        },
+        {
+            "id": "sr:season:112148",
+            "name": "Pan American Games, Women 2023",
+            "start_date": "2023-11-03",
+            "end_date": "2023-11-05",
+            "year": "2023",
+            "competition_id": "sr:competition:29674"
+        },
+        {
+            "id": "sr:season:71622",
+            "name": "Oktoberfest 7s 2019",
+            "start_date": "2019-09-21",
+            "end_date": "2019-09-23",
+            "year": "2019",
+            "competition_id": "sr:competition:30418"
+        },
+        {
+            "id": "sr:season:74077",
+            "name": "SEA Games 2019",
+            "start_date": "2019-12-07",
+            "end_date": "2019-12-09",
+            "year": "2019",
+            "competition_id": "sr:competition:31485"
+        },
+        {
+            "id": "sr:season:74079",
+            "name": "SEA Games, Women 2019",
+            "start_date": "2019-12-07",
+            "end_date": "2019-12-09",
+            "year": "2019",
+            "competition_id": "sr:competition:31487"
+        },
+        {
+            "id": "sr:season:75115",
+            "name": "Supersevens 2020",
+            "start_date": "2020-02-01",
+            "end_date": "2020-02-02",
+            "year": "2020",
+            "competition_id": "sr:competition:31731"
+        },
+        {
+            "id": "sr:season:85286",
+            "name": "Supersevens 2021",
+            "start_date": "2021-08-14",
+            "end_date": "2021-11-14",
+            "year": "2021",
+            "competition_id": "sr:competition:31731"
+        },
+        {
+            "id": "sr:season:96637",
+            "name": "Supersevens 2022",
+            "start_date": "2022-08-13",
+            "end_date": "2022-11-20",
+            "year": "2022",
+            "competition_id": "sr:competition:31731"
+        },
+        {
+            "id": "sr:season:110505",
+            "name": "Supersevens 2023",
+            "start_date": "2023-09-15",
+            "end_date": "2023-10-22",
+            "year": "2023",
+            "competition_id": "sr:competition:31731"
+        },
+        {
+            "id": "sr:season:121741",
+            "name": "Supersevens 2024",
+            "start_date": "2024-08-17",
+            "end_date": "2025-02-02",
+            "year": "24/25",
+            "competition_id": "sr:competition:31731"
+        },
+        {
+            "id": "sr:season:84122",
+            "name": "Olympic Repechage 2021",
+            "start_date": "2021-06-18",
+            "end_date": "2021-06-20",
+            "year": "2021",
+            "competition_id": "sr:competition:34510"
+        },
+        {
+            "id": "sr:season:119457",
+            "name": "Olympic Repechage 2024",
+            "start_date": "2024-06-21",
+            "end_date": "2024-06-23",
+            "year": "2024",
+            "competition_id": "sr:competition:34510"
+        },
+        {
+            "id": "sr:season:84124",
+            "name": "Olympic Repachage, Women 2021",
+            "start_date": "2021-06-19",
+            "end_date": "2021-06-20",
+            "year": "2021",
+            "competition_id": "sr:competition:34512"
+        },
+        {
+            "id": "sr:season:119459",
+            "name": "Olympic Repachage, Women 2024",
+            "start_date": "2024-06-21",
+            "end_date": "2024-06-23",
+            "year": "2024",
+            "competition_id": "sr:competition:34512"
+        },
+        {
+            "id": "sr:season:106961",
+            "name": "European Games 2023",
+            "start_date": "2023-06-25",
+            "end_date": "2023-06-28",
+            "year": "2023",
+            "competition_id": "sr:competition:40241"
+        },
+        {
+            "id": "sr:season:106963",
+            "name": "European Games, Women 2023",
+            "start_date": "2023-06-25",
+            "end_date": "2023-06-27",
+            "year": "2023",
+            "competition_id": "sr:competition:40243"
+        }
+    ]
+}

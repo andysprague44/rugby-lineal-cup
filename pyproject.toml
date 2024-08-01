@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "lineal-rugby"
+version = "0.1.0"
+description = ""
+authors = ["Andy Sprague <andy.sprague44@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+pydantic = "^2.8.2"
+pydantic-settings = "^2.4.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "*"
+pytest = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
