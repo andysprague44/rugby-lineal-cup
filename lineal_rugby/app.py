@@ -154,9 +154,18 @@ def augment_cup_stats(model: LinealCup) -> None:
             reverse=True,
         )
     )
-    model.statistics = LinealCupStatistics(wins_by_country=holder_counts)
+    wins_by_country = [
+        LinealCupWinsByCountry(country=k, wins=v) for k, v in holder_counts.items()
+    ]
+    model.statistics = LinealCupStatistics(
+        currentHolder=model.current_holder,
+        winsByCountry=wins_by_country,
+    )
 
     with open(f"data/{model.gender}_lineal_cup_stats.json", "w") as file:
+        file.write(model.statistics.model_dump_json(indent=4))
+
+    with open(f"../web/assets/{model.gender}_lineal_cup_stats.json", "w") as file:
         file.write(model.statistics.model_dump_json(indent=4))
 
 
@@ -180,4 +189,4 @@ def main(load=False):
 
 
 if __name__ == "__main__":
-    main(load=True)
+    main(load=False)

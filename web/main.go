@@ -13,10 +13,6 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func refreshData() {
-	// do something
-}
-
 type LinealCupWinsByCountry struct {
 	Country string
 	Wins    int

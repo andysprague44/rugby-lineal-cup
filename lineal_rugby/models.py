@@ -105,8 +105,14 @@ class LinearCupHolders(BaseModel):
     holders: List[LinearCupHolder] = []
 
 
+class LinealCupWinsByCountry(BaseModel):
+    country: str
+    wins: int
+
+
 class LinealCupStatistics(BaseModel):
-    wins_by_country: Dict[str, int] = None
+    currentHolder: str
+    winsByCountry: List[LinealCupWinsByCountry] = []
 
 
 class LinealCup(BaseModel):
