@@ -1,0 +1,65 @@
+{
+    "currentHolder": "France",
+    "winsByCountry": [
+        {
+            "country": "Fiji",
+            "wins": 103
+        },
+        {
+            "country": "South Africa",
+            "wins": 90
+        },
+        {
+            "country": "New Zealand",
+            "wins": 81
+        },
+        {
+            "country": "Argentina",
+            "wins": 46
+        },
+        {
+            "country": "Australia",
+            "wins": 22
+        },
+        {
+            "country": "France",
+            "wins": 17
+        },
+        {
+            "country": "USA",
+            "wins": 16
+        },
+        {
+            "country": "England",
+            "wins": 12
+        },
+        {
+            "country": "Scotland",
+            "wins": 10
+        },
+        {
+            "country": "Samoa",
+            "wins": 8
+        },
+        {
+            "country": "Canada",
+            "wins": 6
+        },
+        {
+            "country": "Ireland",
+            "wins": 5
+        },
+        {
+            "country": "Great Britain",
+            "wins": 3
+        },
+        {
+            "country": "Kenya",
+            "wins": 3
+        },
+        {
+            "country": "Spain",
+            "wins": 1
+        }
+    ]
+}

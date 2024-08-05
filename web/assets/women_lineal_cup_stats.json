@@ -1,0 +1,41 @@
+{
+    "currentHolder": "New Zealand",
+    "winsByCountry": [
+        {
+            "country": "New Zealand",
+            "wins": 119
+        },
+        {
+            "country": "Australia",
+            "wins": 44
+        },
+        {
+            "country": "USA",
+            "wins": 13
+        },
+        {
+            "country": "Canada",
+            "wins": 10
+        },
+        {
+            "country": "France",
+            "wins": 7
+        },
+        {
+            "country": "South Africa",
+            "wins": 2
+        },
+        {
+            "country": "England",
+            "wins": 1
+        },
+        {
+            "country": "Great Britain",
+            "wins": 1
+        },
+        {
+            "country": "Brazil",
+            "wins": 1
+        }
+    ]
+}

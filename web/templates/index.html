@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+{{template "header.html"}}
+
+<body class="bg-white font-family-karla">
+    <!-- Text Header -->
+    <header class="w-full container mx-auto">
+        <div class="flex flex-col items-center py-12">
+            <a class="font-bold text-gray-800 uppercase hover:text-gray-700 text-5xl" href="#">
+                The Haig Shield and Signes Shield
+            </a>
+            <p class="text-lg text-gray-600"> International Rugby Sevens Lineal World Titles</p>
+        </div>
+        <div class="flex flex-col items-left py-12">
+            <p class="text-md">
+                The Haig Shield (Mens) and Signes Shield (Womens) are Challenge Trophy’s put up by the current holders, or defenders, in every match they play home or away (in the same manner as a world boxing title). 
+                The winner would either remain or become the holder.
+            </p>
+            <br/>
+            <p class="text-md">
+                The names of the shields are in honour of the people who made rugby sevens a reality. 
+                For the men, this is <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://en.wikipedia.org/wiki/Ned_Haig">Ned Haig</a>, a butcher from Melrose, Scotland, who created the first ever sevens game, in 1883. 
+                For the womens, this is <a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="https://en.wikipedia.org/wiki/Emil_Signes">Emil Signes</a>, who's work promoting womens rugby led to the hosting of the first womens sevens tournament in Hong Kong in 1997.
+            </p>
+            <br/>
+            <p class="text-md">
+                The data on this site is a work in progress. Currently the data stretches back to 2016 where the data for sevens became easily available. 
+                If you want to help us go back further please get in touch!
+            </p>
+        </div>
+    </header>
+
+    <div class="container mx-auto flex flex-wrap py-6">
+
+        <!-- Main Section -->
+        <section class="w-full flex flex-col items-center px-3">
+
+            <article class="flex flex-col shadow my-4">
+                <div class="bg-white flex flex-col justify-start p-6">
+                    <!-- <p class="text-blue-700 text-sm font-bold uppercase pb-4">Haig Shield</p> -->
+                    <p class="text-3xl font-bold hover:text-gray-700 pb-4">Haig Shield</p>
+                    <p class="text-1xl font-bold hover:text-gray-700 pb-4">The lineal world title for men's sevens rugby since 2016</p>
+                    <br/>
+                    <p class="pb-6">Current holder: <span class="font-bold text-3xl text-green-500">{{ .haig_current_holder }}</span></p>
+                    <br/>
+                    <div class="relative overflow-x-auto">
+                        {{ .haig_table}}
+                    </div>
+                </div>
+            </article>
+            
+            <article class="flex flex-col shadow my-4">
+                <div class="bg-white flex flex-col justify-start p-6">
+                    <!-- <p class="text-blue-700 text-sm font-bold uppercase pb-4">Signes Shield</p> -->
+                    <p class="text-3xl font-bold hover:text-gray-700 pb-4">Signes Shield</p>
+                    <p class="text-1xl font-bold hover:text-gray-700 pb-4">The lineal world title for womens sevens rugby since 2016</p>
+                    <br/>
+                    <p class="pb-6">Current holder: <span class="font-bold text-3xl text-green-500">{{ .signes_current_holder }}</span></p>
+                    <br/>
+                    <div class="relative overflow-x-auto">
+                        {{ .signes_table}}
+                    </div>
+                </div>
+            </article>
+            
+        </section>
+    </div>
+
+{{template "footer.html"}}
+</body>
+</html>
