@@ -1,0 +1,11 @@
+# config params that are shared across SDLC stages
+
+# The name of our service
+service: lineal-rugby
+
+# common tags
+tags:
+  owner: andy-sprague44
+
+aws_region: us-east-1
+

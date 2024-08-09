@@ -1,0 +1,2 @@
+# Add any specific lambda dependencies here
+# Do not include dependencies that are already included in the 'utils' lambda layer
